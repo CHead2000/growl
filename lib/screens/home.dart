@@ -25,7 +25,7 @@ class HomePage extends StatelessWidget {
           const Spacer(),
           ElevatedButton.icon(
             icon: const Icon(Icons.book),
-            label: const Text('Study Spots'),
+            label: const Text('Study Spooooooooots'),
             onPressed: () {
               Navigator.push(
                 context,
