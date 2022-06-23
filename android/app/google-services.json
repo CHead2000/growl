@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "1027772714365",
+    "firebase_url": "https://growl-4a119-default-rtdb.firebaseio.com",
+    "project_id": "growl-4a119",
+    "storage_bucket": "growl-4a119.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027772714365:android:ca954114cb07bd511a5014",
+        "android_client_info": {
+          "package_name": "com.eecs.growl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027772714365-0lk6se98jmq4jkhlb0kcjt9j0tftc6fa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDebTRuNagE5i_8VlwbSDINeGDrI4IaEFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027772714365-0lk6se98jmq4jkhlb0kcjt9j0tftc6fa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1027772714365:android:161f95bf66a9ba9e1a5014",
+        "android_client_info": {
+          "package_name": "com.umich.growl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1027772714365-0lk6se98jmq4jkhlb0kcjt9j0tftc6fa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDebTRuNagE5i_8VlwbSDINeGDrI4IaEFc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1027772714365-0lk6se98jmq4jkhlb0kcjt9j0tftc6fa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
